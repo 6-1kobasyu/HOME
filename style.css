@@ -1,0 +1,14 @@
+@charset "utf-8";
+body { 
+    background-color: #CCFFCC; 
+  }
+p1{
+    color: black;
+    text-align: center;
+}
+p2{
+  color: blue;
+}
+p3{
+  color: green;
+}
